@@ -15,8 +15,8 @@ pip install git+https://github.com/amueller/word_cloud.git
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/WallyssonChristian/projeto_dio_etl
-cd projeto_dio_etl
+git clone https://github.com/WallyssonChristian/Analise-de-Despesas
+cd Analise-de-Despesas
 ```
 2. Execute o Script Python:
 ```bash
